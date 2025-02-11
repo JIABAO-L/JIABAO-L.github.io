@@ -2,7 +2,7 @@
 title: "A Block Cipher Algorithm Identification Scheme Based on Hybrid Random Forest and Logistic Regression Model"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-paper-A Block Cipher Algorithm Identification Scheme Based on Hybrid Random Forest and Logistic Regression Model
+permalink: /publication/2023-paper-A-Block-Cipher-Algorithm-Identification-Scheme-Based-on-Hybrid-Random-Forest-and-Logistic-Regression-Model
 excerpt: 'Ke, Y., Yabing, H., **Jiabao, L***., Chunfu, J and Daoming, Y.'
 date: 2023
 venue: 'Neural Processing Letters'
