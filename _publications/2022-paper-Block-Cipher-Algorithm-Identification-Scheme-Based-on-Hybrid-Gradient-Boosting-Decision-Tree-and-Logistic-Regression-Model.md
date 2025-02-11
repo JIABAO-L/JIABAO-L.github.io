@@ -2,7 +2,7 @@
 title: "Block Cipher Algorithm Identification Scheme Based on Hybrid Gradient Boosting Decision Tree and Logistic Regression Model"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-paper-Block Cipher Algorithm Identification Scheme Based on Hybrid Gradient Boosting Decision Tree and Logistic Regression Model
+permalink: /publication/2022-paper-Block-Cipher-Algorithm-Identification-Scheme-Based-on-Hybrid-Gradient-Boosting-Decision-Tree-and-Logistic-Regression-Model
 excerpt: 'Ke, Y., Yabing, H., Zhanfei, D., **Jiabao, L.**, Chunfu, J*. '
 date: 2022
 venue: 'Advanced Engineering Sciences'
