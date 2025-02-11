@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Ke, Y., Yabing, H., Zhanfei, D., **Jiabao, L***., Chunfu, J.'
-date: 2024
+date: 2024-02-17
 venue: 'Complex & Intelligent Systems'
 paperurl: 'https://link.springer.com/article/10.1007/s40747-023-01212-2'
 ---
