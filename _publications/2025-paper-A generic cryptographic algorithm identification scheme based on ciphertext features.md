@@ -3,7 +3,7 @@ title: "A generic cryptographic algorithm identification scheme based on ciphert
 collection: publications
 category: manuscripts
 permalink: /publication/2025-paper-A generic cryptographic algorithm identification scheme based on ciphertext features
-excerpt: '**Jiabao, L.**, Hanlin, S., Zhanfei, D., Yaxuan, W., Ke, Y., Chunfu, J.'
+excerpt: '**Jiabao, L.**, Hanlin, S., Zhanfei, D., Yaxuan, W., Ke, Y.*, Chunfu, J.'
 date: 2025-02-04
 venue: 'Journal of Information Security and Applications'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2214212625000225'
