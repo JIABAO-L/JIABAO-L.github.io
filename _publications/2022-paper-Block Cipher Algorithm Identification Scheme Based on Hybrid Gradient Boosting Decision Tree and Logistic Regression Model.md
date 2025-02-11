@@ -3,7 +3,7 @@ title: "Block Cipher Algorithm Identification Scheme Based on Hybrid Gradient Bo
 collection: publications
 category: manuscripts
 permalink: /publication/2022-paper-Block Cipher Algorithm Identification Scheme Based on Hybrid Gradient Boosting Decision Tree and Logistic Regression Model
-excerpt: 'Ke, Y., Yabing, H., Zhanfei, D., **Jiabao, L.**, Chunfu, J*.'
+excerpt: 'Ke, Y., Yabing, H., Zhanfei, D., **Jiabao, L.**, Chunfu, J*. '
 date: 2022
 venue: 'Advanced Engineering Sciences'
 paperurl: 'https://jsuese.scu.edu.cn/thesisDetails#10.15961/j.jsuese.202100341&lang=en'
