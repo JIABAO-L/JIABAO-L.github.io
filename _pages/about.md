@@ -17,8 +17,6 @@ My research focuses on **Cryptography, Data Security, and Privacy Preservation**
 
 News
 ======
-- **[2025-02-02]**  **New publication**: Jiabao Li, Hanlin Sun, Zhanfei Du, Yaxuan Wang, Ke Yuan, Chunfu Jia, "A generic cryptographic algorithm identification scheme based on ciphertext features," *Journal of Information Security and Applications*, Volume 89, 2025, 103984, ISSN 2214-2126, https://doi.org/10.1016/j.jisa.2025.103984
-        
-        
-        
-        .
+- **[2025-02-02]**  **New publication**: Jiabao Li, Hanlin Sun, Zhanfei Du, Yaxuan Wang, Ke Yuan, Chunfu Jia, "A generic cryptographic algorithm identification scheme based on ciphertext features," *Journal of Information Security and Applications*, Volume 89, 2025, 103984, ISSN 2214-2126, https://doi.org/10.1016/j.jisa.2025.103984.
+
+- 
