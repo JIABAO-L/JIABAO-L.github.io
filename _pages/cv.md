@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# University of Macau (Aug. 2022 - Jun. 2024)
+* M.S. in Internet of Things (English Medium Instruction)
+* Graduation Honours: Excellent
+* GPA (overall): 3.46/4.0 
+# Henan University (Sep. 2018 - Jun. 2022)
+* B.Eng. in Information Security
+* GPA (overall): 3.5/4.0
 
-Work experience
+Internship Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Research Assistant 
+* State Key Laboratory of Internet of Things for Smart City (Sept. 2023 - Jun. 2024.)
+# Translation of Professional Books 
+* _Cryptology for Engineers: An Application-Oriented Mathematical Introduction_, China Machine Press (Nov. 2019 - Nov. 2022.)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Volunteer Activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Head of Youth Volunteer Association, School of Computer and Information Engineering, Henan University (2018 - 2020)
+* Volunteers for the 2019 China Zheng-Kai International Marathon (2019)
