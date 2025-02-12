@@ -1,5 +1,5 @@
 ---
-title: "A generic cryptographic algorithm identification scheme based on ciphertext features"
+title: "A Generic Cryptographic Algorithm Identification Scheme Based on Ciphertext Features"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-paper-A generic cryptographic algorithm identification scheme based on ciphertext features
