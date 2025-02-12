@@ -11,18 +11,18 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jiabao Li"
 title_separator          : "-"
-name                     : &name #"Your Name"
+name                     : &name "Jiabao Li"
 description              : &description #"personal description"
-url                      : #"https://JIABAO-L.github.io"
+url                      : "https://JIABAO-L.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #"academicpages/academicpages.github.io"
+repository               : "JIABAO-L/JIABAO-L.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Jiabao Li"
   pronouns         : # example: "she/her"  
   bio              : "Welcome to my personal website!"
